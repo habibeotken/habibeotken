@@ -15,4 +15,4 @@
 
 
 
-![snake gif](https://github.com/habibeotken/habibeotken/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/habibeotken/habibeotken/blob/output/github-snake.svg)
