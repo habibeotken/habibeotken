@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://www.linkedin.com/in/ummu-habibe-otken/" target="blank](https://www.linkedin.com/in/%C3%BCmm%C3%BC-habibe-%C3%B6tken-33b868293/)">
+<a href="https://www.linkedin.com/in/%C3%BCmm%C3%BC-habibe-%C3%B6tken-33b868293/">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 </p>
