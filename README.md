@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/%C3%BCmm%C3%BC-habibe-%C3%B6tken-33b868293/">
+<a href="[https://www.linkedin.com/in/%C3%BCmm%C3%BC-habibe-%C3%B6tken-33b868293/](https://www.linkedin.com/in/%C3%BCmm%C3%BC-habibe-%C3%B6tken-33b868293/)">
  
 
 <h3 align="left">Languages and Tools:</h3>
