@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated SVG Banner -->
-<svg width="800" height="180" viewBox="0 0 800 180" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="160" viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#0d1117"/>
@@ -17,26 +17,21 @@
       <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
   </defs>
-  <rect width="800" height="180" fill="url(#bg)" rx="12"/>
-  <rect x="0" y="155" width="800" height="3" fill="url(#accent)" rx="2"/>
-  <!-- Grid lines -->
+  <rect width="800" height="160" fill="url(#bg)" rx="12"/>
+  <rect x="0" y="138" width="800" height="3" fill="url(#accent)" rx="2"/>
   <line x1="0" y1="30" x2="800" y2="30" stroke="#21262d" stroke-width="1"/>
-  <line x1="0" y1="60" x2="800" y2="60" stroke="#21262d" stroke-width="1"/>
-  <line x1="0" y1="90" x2="800" y2="90" stroke="#21262d" stroke-width="1"/>
-  <line x1="0" y1="120" x2="800" y2="120" stroke="#21262d" stroke-width="1"/>
-  <!-- Terminal prompt -->
-  <text x="40" y="55" font-family="'Courier New', monospace" font-size="13" fill="#3fb950">~/ümmü-habibe $</text>
-  <text x="40" y="80" font-family="'Courier New', monospace" font-size="26" font-weight="bold" fill="#f0f6fc" filter="url(#glow)">Ümmü Habibe Ötken</text>
-  <text x="40" y="108" font-family="'Courier New', monospace" font-size="13" fill="#8b949e">AI &amp; Software Engineer</text>
-  <!-- Blinking cursor -->
-  <rect x="40" y="125" width="10" height="16" fill="#58a6ff" rx="1">
+  <line x1="0" y1="75" x2="800" y2="75" stroke="#21262d" stroke-width="1"/>
+  <line x1="0" y1="115" x2="800" y2="115" stroke="#21262d" stroke-width="1"/>
+  <text x="40" y="52" font-family="'Courier New', monospace" font-size="13" fill="#3fb950">~/habibe $</text>
+  <text x="130" y="52" font-family="'Courier New', monospace" font-size="13" fill="#f0f6fc">whoami</text>
+  <text x="40" y="98" font-family="'Courier New', monospace" font-size="22" font-weight="bold" fill="#f0f6fc" filter="url(#glow)">AI &amp; Software Engineer</text>
+  <rect x="40" y="118" width="10" height="14" fill="#58a6ff" rx="1">
     <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
   </rect>
-  <!-- Decorative circles -->
-  <circle cx="720" cy="50" r="40" fill="none" stroke="#58a6ff" stroke-width="0.5" opacity="0.3"/>
-  <circle cx="720" cy="50" r="28" fill="none" stroke="#a371f7" stroke-width="0.5" opacity="0.3"/>
-  <circle cx="720" cy="50" r="16" fill="#a371f7" opacity="0.15"/>
-  <text x="712" y="56" font-family="monospace" font-size="18" fill="#a371f7" opacity="0.8">⬡</text>
+  <circle cx="720" cy="70" r="40" fill="none" stroke="#58a6ff" stroke-width="0.5" opacity="0.3"/>
+  <circle cx="720" cy="70" r="28" fill="none" stroke="#a371f7" stroke-width="0.5" opacity="0.3"/>
+  <circle cx="720" cy="70" r="16" fill="#a371f7" opacity="0.15"/>
+  <text x="712" y="76" font-family="monospace" font-size="18" fill="#a371f7" opacity="0.8">⬡</text>
 </svg>
 
 <br/>
@@ -47,12 +42,11 @@
 
 ---
 
-## 👩‍💻 Hakkımda / About Me
+## 👩‍💻 About Me
 
 ```python
 class UmmuHabibeOtken:
     def __init__(self):
-        self.name       = "Ümmü Habibe Ötken"
         self.role       = "AI & Software Engineer"
         self.focus      = ["Artificial Intelligence", "Machine Learning", "Backend Systems"]
         self.languages  = ["Python", "Java", "JavaScript", "Go"]
@@ -68,7 +62,7 @@ me.say_hi()
 
 ---
 
-## 🧠 Teknoloji Yığını / Tech Stack
+## 🧠 Tech Stack
 
 <div align="center">
 
@@ -99,15 +93,15 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub İstatistikleri / GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=habibeotken&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a371f7&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibeotken&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=habibeotken&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibeotken&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=habibeotken&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=f78166&currStreakLabel=a371f7"/>
+  <img src="https://streak-stats.demolab.com?user=habibeotken&theme=github-dark-blue&hide_border=true"/>
 </div>
 
 ---
@@ -122,17 +116,17 @@ me.say_hi()
 
 ---
 
-## 📈 Aktivite Grafiği / Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=habibeotken&bg_color=0d1117&color=58a6ff&line=a371f7&point=f78166&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=habibeotken&bg_color=0d1117&color=58a6ff&line=a371f7&point=f78166&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 🎯 Odak Alanlarım / Focus Areas
+## 🎯 Focus Areas
 
 ```
 ┌─────────────────────────────────────────────────────────┐
@@ -148,13 +142,11 @@ me.say_hi()
 
 ---
 
-## 🤝 Bağlantı / Connect with Me
+## 🤝 Connect with Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/habibeotken)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/habibeotken)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/habibeotken](https://www.linkedin.com/in/%C3%BCmm%C3%BC-habibe-%C3%B6tken-33b868293/))
 
 </div>
 
