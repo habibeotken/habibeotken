@@ -93,19 +93,6 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=habibeotken&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibeotken&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=habibeotken&theme=github-dark-blue&hide_border=true"/>
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -146,7 +133,7 @@ me.say_hi()
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/habibeotken](https://www.linkedin.com/in/%C3%BCmm%C3%BC-habibe-%C3%B6tken-33b868293/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%BCmm%C3%BC-habibe-%C3%B6tken-33b868293/)
 
 </div>
 
