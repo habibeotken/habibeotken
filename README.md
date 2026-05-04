@@ -26,4 +26,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibeotken&layout=compact&theme=tokyonight" />
 </p>
-![snake gif](https://github.com/habibeotken/habibeotken/blob/output/github-snake.svg)
+## 🐍 Snake Game
+
+<p align="center">
+  <a href="SNAKE_OYUN_LINKIN_BURAYA">
+    <img src="https://img.shields.io/badge/Play%20Snake%20Game-Click%20Here-brightgreen?style=for-the-badge" />
+  </a>
+</p>
